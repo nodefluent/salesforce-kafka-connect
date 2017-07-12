@@ -1,4 +1,6 @@
 # salesforce-kafka-connect
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nodefluent/salesforce-kafka-connect.svg)](https://greenkeeper.io/)
 Kafka Connect connector for Salesforce
 
 [![Build Status](https://travis-ci.org/nodefluent/salesforce-kafka-connect.svg?branch=master)](https://travis-ci.org/nodefluent/salesforce-kafka-connect)
