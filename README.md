@@ -121,8 +121,17 @@ const config = {
     produceKeyed: true,
     produceCompressionType: 0,
     connector: {
-        username: "salesforce",
-        password: "salesforce",
+        tokenAuth: {
+            oauth2: {
+                clientId: "client-id",
+                clientSecret: "client-secret",
+                redirectUri: "redirect-uri"
+            },
+            accessToken: "access-token",
+            refreshToken: "refresh-token"
+        }
+        // username: "salesforce",
+        // password: "salesforce",
         loginUrl: "https://test.salesforce.com",
         streamingSource: {
             batchSize: 5,
