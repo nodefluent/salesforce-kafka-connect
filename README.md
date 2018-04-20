@@ -5,8 +5,6 @@ Kafka Connect connector for Salesforce
 
 [![Build Status](https://travis-ci.org/nodefluent/salesforce-kafka-connect.svg?branch=master)](https://travis-ci.org/nodefluent/salesforce-kafka-connect)
 
-[![Coverage Status](https://coveralls.io/repos/github/nodefluent/salesforce-kafka-connect/badge.svg?branch=master)](https://coveralls.io/github/nodefluent/salesforce-kafka-connect?branch=master)
-
 ## Use API
 
 ```
