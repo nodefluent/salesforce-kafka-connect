@@ -34,7 +34,7 @@
     },
     "dependencies": {
         "async": "^2.6.1",
-        "jsforce": "^1.9.1",
+        "jsforce": "^1.9.2",
         "kafka-connect": "^3.5.1"
     },
     "devDependencies": {
