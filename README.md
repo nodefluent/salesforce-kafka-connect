@@ -1,7 +1,7 @@
 # salesforce-kafka-connect
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/nodefluent/salesforce-kafka-connect.svg)](https://greenkeeper.io/)
-Kafka Connect connector for Salesforce
+Kafka Connect connector for Salesforce with bulk options configuration support.
 
 [![Build Status](https://travis-ci.org/nodefluent/salesforce-kafka-connect.svg?branch=master)](https://travis-ci.org/nodefluent/salesforce-kafka-connect)
 
@@ -139,7 +139,10 @@ const config = {
         },
         restSink: {
             sObject: "sobject",
-            idProperty: "id"
+            idProperty: "id",
+            bulkOptions: {
+                concurrencyMode: 'Serial',
+            },
             batchSize: 500
         }
     },
