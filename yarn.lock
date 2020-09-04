@@ -4,7 +4,7 @@
 
 "@google-cloud/common-grpc@^0.6.0":
   version "0.6.1"
-  resolved "http://registry.npmjs.org/@google-cloud/common-grpc/-/common-grpc-0.6.1.tgz#629dfb90690f6a38263bbf16eb9740ea4cbcf9df"
+  resolved "https://registry.npmjs.org/@google-cloud/common-grpc/-/common-grpc-0.6.1.tgz#629dfb90690f6a38263bbf16eb9740ea4cbcf9df"
   dependencies:
     "@google-cloud/common" "^0.17.0"
     dot-prop "^4.2.0"
@@ -18,7 +18,7 @@
 
 "@google-cloud/common@^0.16.1":
   version "0.16.2"
-  resolved "http://registry.npmjs.org/@google-cloud/common/-/common-0.16.2.tgz#029b3c7c4a425f1374045ba8f6a878bd50e4761c"
+  resolved "https://registry.npmjs.org/@google-cloud/common/-/common-0.16.2.tgz#029b3c7c4a425f1374045ba8f6a878bd50e4761c"
   dependencies:
     array-uniq "^1.0.3"
     arrify "^1.0.1"
@@ -41,7 +41,7 @@
 
 "@google-cloud/common@^0.17.0":
   version "0.17.0"
-  resolved "http://registry.npmjs.org/@google-cloud/common/-/common-0.17.0.tgz#8ef558750db481fc10a13757a49479ab9a1c8c07"
+  resolved "https://registry.npmjs.org/@google-cloud/common/-/common-0.17.0.tgz#8ef558750db481fc10a13757a49479ab9a1c8c07"
   dependencies:
     array-uniq "^1.0.3"
     arrify "^1.0.1"
@@ -71,7 +71,7 @@
 
 "@google-cloud/logging@^1.0.0":
   version "1.2.0"
-  resolved "http://registry.npmjs.org/@google-cloud/logging/-/logging-1.2.0.tgz#0332da0f7d400e766f79f4d15c48c7f11ee66251"
+  resolved "https://registry.npmjs.org/@google-cloud/logging/-/logging-1.2.0.tgz#0332da0f7d400e766f79f4d15c48c7f11ee66251"
   dependencies:
     "@google-cloud/common" "^0.16.1"
     "@google-cloud/common-grpc" "^0.6.0"
@@ -228,8 +228,8 @@ acorn-es7-plugin@^1.0.12:
   resolved "https://registry.yarnpkg.com/acorn-es7-plugin/-/acorn-es7-plugin-1.1.7.tgz#f2ee1f3228a90eead1245f9ab1922eb2e71d336b"
 
 acorn@^5.0.0:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
 
 ajv@^5.3.0:
   version "5.5.2"
@@ -370,7 +370,7 @@ aws4@^1.8.0:
 
 axios@^0.18.0:
   version "0.18.0"
-  resolved "http://registry.npmjs.org/axios/-/axios-0.18.0.tgz#32d53e4851efdc0a11993b6cd000789d70c05102"
+  resolved "https://registry.npmjs.org/axios/-/axios-0.18.0.tgz#32d53e4851efdc0a11993b6cd000789d70c05102"
   dependencies:
     follow-redirects "^1.3.0"
     is-buffer "^1.1.5"
@@ -587,7 +587,7 @@ chainsaw@~0.1.0:
 
 chalk@~2.3.2:
   version "2.3.2"
-  resolved "http://registry.npmjs.org/chalk/-/chalk-2.3.2.tgz#250dc96b07491bfd601e648d66ddf5f60c7a5c65"
+  resolved "https://registry.npmjs.org/chalk/-/chalk-2.3.2.tgz#250dc96b07491bfd601e648d66ddf5f60c7a5c65"
   dependencies:
     ansi-styles "^3.2.1"
     escape-string-regexp "^1.0.5"
@@ -655,7 +655,7 @@ colour@~0.7.1:
 
 combined-stream@1.0.6:
   version "1.0.6"
-  resolved "http://registry.npmjs.org/combined-stream/-/combined-stream-1.0.6.tgz#723e7df6e801ac5613113a7e445a9b69cb632818"
+  resolved "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.6.tgz#723e7df6e801ac5613113a7e445a9b69cb632818"
   dependencies:
     delayed-stream "~1.0.0"
 
@@ -667,7 +667,7 @@ combined-stream@~1.0.6:
 
 commander@2.15.1:
   version "2.15.1"
-  resolved "http://registry.npmjs.org/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
+  resolved "https://registry.npmjs.org/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
 
 commander@^2.9.0:
   version "2.18.0"
@@ -761,7 +761,7 @@ csv-stringify@^1.0.4:
 
 d64@^1.0.0:
   version "1.0.0"
-  resolved "http://registry.npmjs.org/d64/-/d64-1.0.0.tgz#4002a87e850cbfc9f9d9706b60fca613a3336e90"
+  resolved "https://registry.npmjs.org/d64/-/d64-1.0.0.tgz#4002a87e850cbfc9f9d9706b60fca613a3336e90"
 
 d@1:
   version "1.0.0"
@@ -1078,7 +1078,7 @@ expand-template@^1.0.2:
 
 express@~4.16.3:
   version "4.16.3"
-  resolved "http://registry.npmjs.org/express/-/express-4.16.3.tgz#6af8a502350db3246ecc4becf6b5a34d22f7ed53"
+  resolved "https://registry.npmjs.org/express/-/express-4.16.3.tgz#6af8a502350db3246ecc4becf6b5a34d22f7ed53"
   dependencies:
     accepts "~1.3.5"
     array-flatten "1.1.1"
@@ -1274,7 +1274,7 @@ gauge@~2.7.3:
 
 gcp-metadata@^0.6.1, gcp-metadata@^0.6.3:
   version "0.6.3"
-  resolved "http://registry.npmjs.org/gcp-metadata/-/gcp-metadata-0.6.3.tgz#4550c08859c528b370459bd77a7187ea0bdbc4ab"
+  resolved "https://registry.npmjs.org/gcp-metadata/-/gcp-metadata-0.6.3.tgz#4550c08859c528b370459bd77a7187ea0bdbc4ab"
   dependencies:
     axios "^0.18.0"
     extend "^3.0.1"
@@ -1402,7 +1402,7 @@ google-auto-auth@^0.9.0:
 
 google-gax@^0.16.0:
   version "0.16.1"
-  resolved "http://registry.npmjs.org/google-gax/-/google-gax-0.16.1.tgz#30bf1284a1c384cd31a01163def4d671cec10c0f"
+  resolved "https://registry.npmjs.org/google-gax/-/google-gax-0.16.1.tgz#30bf1284a1c384cd31a01163def4d671cec10c0f"
   dependencies:
     duplexify "^3.5.4"
     extend "^3.0.0"
@@ -1532,7 +1532,7 @@ http-errors@1.6.2:
 
 http-errors@1.6.3, http-errors@~1.6.2, http-errors@~1.6.3:
   version "1.6.3"
-  resolved "http://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz#8b55680bb4be283a0b5bf4ea2e38580be1d9320d"
+  resolved "https://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz#8b55680bb4be283a0b5bf4ea2e38580be1d9320d"
   dependencies:
     depd "~1.1.2"
     inherits "2.0.3"
@@ -1692,7 +1692,7 @@ is-number@^3.0.0:
 
 is-obj@^1.0.0:
   version "1.0.1"
-  resolved "http://registry.npmjs.org/is-obj/-/is-obj-1.0.1.tgz#3e4729ac1f5fde025cd7d83a896dab9f4f67db0f"
+  resolved "https://registry.npmjs.org/is-obj/-/is-obj-1.0.1.tgz#3e4729ac1f5fde025cd7d83a896dab9f4f67db0f"
 
 is-plain-obj@^1.0.0:
   version "1.1.0"
@@ -2045,15 +2045,15 @@ mimic-response@^1.0.0:
 
 minimist@0.0.8:
   version "0.0.8"
-  resolved "http://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+  resolved "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
 
 minimist@^1.2.0:
   version "1.2.0"
-  resolved "http://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+  resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
 
 minimist@~0.0.1:
   version "0.0.10"
-  resolved "http://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
+  resolved "https://registry.npmjs.org/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
 
 minipass@^2.2.1, minipass@^2.3.3:
   version "2.3.4"
@@ -2077,7 +2077,7 @@ mixin-deep@^1.2.0:
 
 mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1:
   version "0.5.1"
-  resolved "http://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
+  resolved "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   dependencies:
     minimist "0.0.8"
 
@@ -2178,7 +2178,7 @@ nanomatch@^1.2.9:
 
 ncp@~2.0.0:
   version "2.0.0"
-  resolved "http://registry.npmjs.org/ncp/-/ncp-2.0.0.tgz#195a21d6c46e361d2fb1281ba38b91e9df7bdbb3"
+  resolved "https://registry.npmjs.org/ncp/-/ncp-2.0.0.tgz#195a21d6c46e361d2fb1281ba38b91e9df7bdbb3"
 
 needle@^2.2.1:
   version "2.2.4"
@@ -2366,7 +2366,7 @@ os-homedir@^1.0.0, os-homedir@^1.0.1:
 
 os-locale@^1.4.0:
   version "1.4.0"
-  resolved "http://registry.npmjs.org/os-locale/-/os-locale-1.4.0.tgz#20f9f17ae29ed345e8bde583b13d2009803c14d9"
+  resolved "https://registry.npmjs.org/os-locale/-/os-locale-1.4.0.tgz#20f9f17ae29ed345e8bde583b13d2009803c14d9"
   dependencies:
     lcid "^1.0.0"
 
@@ -2667,7 +2667,7 @@ rc@^1.2.7:
 
 readable-stream@^2.0.0, readable-stream@^2.0.5, readable-stream@^2.0.6, readable-stream@^2.1.0, readable-stream@^2.1.5, readable-stream@^2.2.2, readable-stream@^2.3.0, readable-stream@^2.3.5:
   version "2.3.6"
-  resolved "http://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
+  resolved "https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
   dependencies:
     core-util-is "~1.0.0"
     inherits "~2.0.3"
@@ -2758,7 +2758,7 @@ rimraf@^2.6.1:
 
 rimraf@~2.4.0:
   version "2.4.5"
-  resolved "http://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz#ee710ce5d93a8fdb856fb5ea8ff0e2d75934b2da"
+  resolved "https://registry.npmjs.org/rimraf/-/rimraf-2.4.5.tgz#ee710ce5d93a8fdb856fb5ea8ff0e2d75934b2da"
   dependencies:
     glob "^6.0.1"
 
@@ -3357,7 +3357,7 @@ wordwrap@~0.0.2:
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
-  resolved "http://registry.npmjs.org/wrap-ansi/-/wrap-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"
+  resolved "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"
   dependencies:
     string-width "^1.0.1"
     strip-ansi "^3.0.1"
@@ -3395,7 +3395,7 @@ yallist@^3.0.0, yallist@^3.0.2:
 
 yargs@^3.10.0:
   version "3.32.0"
-  resolved "http://registry.npmjs.org/yargs/-/yargs-3.32.0.tgz#03088e9ebf9e756b69751611d2a5ef591482c995"
+  resolved "https://registry.npmjs.org/yargs/-/yargs-3.32.0.tgz#03088e9ebf9e756b69751611d2a5ef591482c995"
   dependencies:
     camelcase "^2.0.1"
     cliui "^3.0.3"
