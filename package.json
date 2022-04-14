@@ -33,7 +33,7 @@
         "nkc-salesforce-sink": "bin/nkc-salesforce-sink.js"
     },
     "dependencies": {
-        "async": "^2.6.1",
+        "async": "^3.2.2",
         "jsforce": "^1.9.1",
         "kafka-connect": "^3.5.1"
     },
