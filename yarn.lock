@@ -343,10 +343,10 @@ async@1.x:
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
 
 async@^2.3.0, async@^2.4.0, async@^2.5.0, async@^2.6.1, async@~2.6.1:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.1.tgz#b245a23ca71930044ec53fa46aa00a3e87c6a610"
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
   dependencies:
-    lodash "^4.17.10"
+    lodash "^4.17.14"
 
 async@~0.2.7:
   version "0.2.10"
@@ -1923,9 +1923,9 @@ lodash.merge@^4.6.0, lodash.merge@~4.6.1:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
 
-lodash@^4.11.1, lodash@^4.17.10, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.17.5:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+lodash@^4.11.1, lodash@^4.17.14, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.17.5:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 log-driver@1.2.7, log-driver@^1.2.7:
   version "1.2.7"
